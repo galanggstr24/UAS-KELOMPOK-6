@@ -1,37 +1,17 @@
-Kasir Toko Baju
+=== PENGUMPULAN PROGRESS 1 — UAS PEMROGRAMAN DASAR ===
 
-Identitas Kelompok
+Kelas / Kelompok   : T1F / Kelompok-06
 
-Mata Kuliah : Pemrograman Dasar
-Kelas : T1-F
-Kelompok : 6
-Program Studi : Teknologi Informasi
-Universitas : Universitas Brawijaya
+Judul / Tema       : Kasir Toko Baju (Aplikasi Console TypeScript)
+Link Repo Public   : https://github.com/galanggstr24/UAS-KELOMPOK-6
 
-Daftar Anggota Kelompok :
+Daftar Anggota & Akun GitHub:
+1. MH. Galang Satrio Nagoro - 263140707111020 (@galanggstr24)
+2. ⁠Wina Listiani - 263140707111035 (@winalistianii19-cmyk)
+3. Suci Nurul Fatimah - 263140707111038 (@sucynf)
 
-MH. Galang Satrio Nagoro
-NIM: 263140707111020
-GitHub: @galanggstr24
-
-⁠Wina Listiani
-NIM: 263140707111035
-GitHub: @winalistianii19-cmyk
-
-Suci Nurul Fatimah
-NIM: 263140707111038
-GitHub: @sucynf
-
-Pembagian Tugas Anggota :
-
-MH. Galang Satrio Nagoro
-Setup Repo, Struktur Data Barang, Menu Utama, Fitur Create, Validasi Input & Laporan Bab I, II, dan III
-
-Wina Listiani
-Fitur Read, Fitur Update, Hitung Total, Diskon & Laporan Bab III
-
-Suci Nurul Fatimah
-Fitur Delete, Fitur Search, Pembayaran, Update Stok, Struk & Laporan Bab II dan III
-
-Deskripsi Project :
-Sistem Reservasi Tiket Bioskop merupakan program berbasis TypeScript yang dibuat untuk membantu proses pemesanan tiket bioskop. Program ini menerima input nama pembeli, jenis film, jumlah tiket, status keanggotaan, dan metode pembayaran. Program juga menghitung total harga tiket, diskon, biaya layanan, serta total pembayaran.
+Ringkasan Capaian Progress 1:
+- Repository Public aktif dengan struktur awal (.gitignore, tsconfig.json, package.json, src/index.ts) dan program "Hello console" dapat dijalankan semua anggota.
+- README.md awal berisi daftar anggota, akun GitHub, dan tabel pembagian tugas.
+- Proposal & analisis awal (Bagian A) telah diunggah pada docs/ atau README.md.
+- Draft laporan (Sampul, 1.1, 1.2 awal, rencana 3.2) tersimpan di docs/ pada branch main.
