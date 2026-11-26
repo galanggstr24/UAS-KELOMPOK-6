@@ -23,6 +23,10 @@
   },
   "homepage": "https://github.com/galanggstr24/UAS-KELOMPOK-6#readme",
   "devDependencies": {
+    "@types/node": "^26.6.11",
     "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
   }
 }
